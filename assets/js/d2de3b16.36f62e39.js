@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[684],{6609:function(s){s.exports=JSON.parse('{"allTagsPath":"https://github.com/lewd-labs/blog/tags","slug":"https://github.com/lewd-labs/blog/tags/owner","name":"Owner","count":1,"permalink":"https://github.com/lewd-labs/blog/tags/owner"}')}}]);
