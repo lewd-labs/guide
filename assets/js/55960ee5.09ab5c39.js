@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[121],{8070:function(e){e.exports=JSON.parse('[{"name":"Getting started","permalink":"/xyz/docs/tags/getting-started","count":2},{"name":"Economy","permalink":"/xyz/docs/tags/economy","count":1}]')}}]);

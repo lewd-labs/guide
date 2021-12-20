@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[121],{8070:function(t){t.exports=JSON.parse('[{"name":"Getting started","permalink":"https://github.com/lewd-labs/docs/tags/getting-started","count":2},{"name":"Economy","permalink":"https://github.com/lewd-labs/docs/tags/economy","count":1}]')}}]);
