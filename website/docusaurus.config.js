@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
 	title: "Lewd Labs",
 	tagline: "Keep it cultured ;)",
-	url: "https://your-docusaurus-test-site.com", // domain
-	baseUrl: "https://github.com/lewd-labs/", // repo name for github pages
+	url: "https://github.com/lewd-labs/", // domain
+	baseUrl: "/xyz/", // repo name for github pages
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
 	organizationName: "lewd-labs", // Usually your GitHub org/user name.

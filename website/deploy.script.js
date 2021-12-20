@@ -1,7 +1,7 @@
 var ghpages = require("gh-pages");
 
 ghpages.publish(
-	"build",
+	"./build",
 	{
 		branch: "web",
 		repo: "https://github.com/lewd-labs/xyz.git",
