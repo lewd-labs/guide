@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Lewd Labs",
-	tagline: "Keep it cultured ;)",
+	tagline: "🍷",
 	url: "https://github.com/lewd-labs/", // domain
 	baseUrl: "/xyz/", // repo name for github pages
 	onBrokenMarkdownLinks: "warn",
-	favicon: "img/favicon.ico",
+	favicon: "img/bone.svg",
 	organizationName: "lewd-labs", // Usually your GitHub org/user name.
 	projectName: "xyz", // Usually your repo name.
 
@@ -51,7 +51,7 @@ const config = {
 				title: "Lewd Labs",
 				logo: {
 					alt: "My Site Logo",
-					src: "img/logo.svg",
+					src: "img/bone.svg",
 				},
 				items: [
 					{
