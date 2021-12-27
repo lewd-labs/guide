@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Lewd Labs Blog</title>
-        <link>https://github.com/lewd-labs/xyz/blog</link>
+        <link>https://github.com/lewd-labs/guide/blog</link>
         <description>Lewd Labs Blog</description>
         <lastBuildDate>Mon, 20 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Creator Of Lewd Labs]]></title>
-            <link>https://github.com/lewd-labs/xyz/blog/creator-post-1</link>
+            <link>https://github.com/lewd-labs/guide/blog/creator-post-1</link>
             <guid>creator-post-1</guid>
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello everyone! Im the creator of Lewd Labs...]]></description>

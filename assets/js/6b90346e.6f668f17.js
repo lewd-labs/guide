@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[657],{8937:function(e){e.exports=JSON.parse('{"allTagsPath":"/guide/blog/tags","slug":"/guide/blog/tags/owner","name":"Owner","count":1,"permalink":"/guide/blog/tags/owner"}')}}]);
