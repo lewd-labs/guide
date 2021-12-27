@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
 	{
 		title: "Easy to Use",
-		image: "/xyz/img/undraw_docusaurus_mountain.svg",
+		image: "/guide/img/undraw_docusaurus_mountain.svg",
 		description: (
 			<>
 				Our packages are designed from the ground up to be easily installed and
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
 	},
 	{
 		title: "Focus on Development",
-		image: "/xyz/img/undraw_docusaurus_tree.svg",
+		image: "/guide/img/undraw_docusaurus_tree.svg",
 		description: (
 			<>
 				<a href="https://github.com/lewd-labs">Lewd Labs</a> lets you focus on
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
 	},
 	{
 		title: "Powered by lascivious Energy",
-		image: "/xyz/img/undraw_docusaurus_react.svg",
+		image: "/guide/img/undraw_docusaurus_react.svg",
 		description: (
 			<>
 				The human mind should never be underestimated, our desires can lead the

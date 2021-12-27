@@ -9,7 +9,7 @@ const config = {
 	title: "Lewd Labs",
 	tagline: "🍷",
 	url: "https://github.com/lewd-labs/", // domain
-	baseUrl: "/xyz/", // repo name for github pages
+	baseUrl: "/guide/", // repo name for github pages
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/bone.svg",
 	organizationName: "lewd-labs", // Usually your GitHub org/user name.

@@ -13,5 +13,6 @@ Thanks for having an interest in [Lewd Labs](https://github.com/lewd-labs) Packa
 
 The current packages (public) we are working on for lewd labs:
 
-- [Economy](/docs/Economy/info-start)
-- GiveAway (Soon)
+- [Discord Ts Economy](/docs/eco-pkg/start)
+
+Feel free to join our discord community for updates and support.
