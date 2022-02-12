@@ -1,6 +1,6 @@
-var ghpages = require("gh-pages");
+const GitHub = require("gh-pages");
 
-ghpages.publish(
+GitHub.publish(
 	"./build",
 	{
 		branch: "web",
@@ -9,4 +9,11 @@ ghpages.publish(
 		add: false,
 		message: "Website has been deployed!",
 	},
-).then(() => console.log("Content pushed to github..."))
+	function(err) {
+		if (err) {
+			console.log(err);
+		} else {
+			console.log("Website has been deployed!");
+		}
+	}
+)
