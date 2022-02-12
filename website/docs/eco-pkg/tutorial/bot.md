@@ -14,7 +14,7 @@ Make sure you have all the required dependencies to run node.js Your `package.js
 
 Please copy the following into your `index.js` file below:
 
-```js {15}
+```js
 const { Client, Intents } = require("discord.js");
 
 const botClient = new Client({
